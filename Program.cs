@@ -3,9 +3,10 @@ using System.Reflection;
 
 class Program
 {
+    static string optioninput = "";
     static void Main(string[] args)
     {
-        if (args.Length == 0)
+        while (optioninput.Length == 0)
         {
             Console.WriteLine("Specify a pattern name. Available options:");
             foreach (var d in typeof(Program).Assembly.GetTypes())
@@ -15,10 +16,11 @@ class Program
                     Console.WriteLine("- " + d.Namespace?.Substring("DesignPatterns.".Length));
                 }
             }
-            return;
+            optioninput = Console.ReadLine();
+            // return;
         }
 
-        var pattern = args[0];
+        var pattern = optioninput;
         var type = Type.GetType($"DesignPatterns.{pattern}.Demo");
         if (type == null)
         {

@@ -1,0 +1,15 @@
+C:\Projects\DesignPatternAI\bin\Debug\net6.0\DesignPatternDemos.exe
+C:\Projects\DesignPatternAI\bin\Debug\net6.0\DesignPatternDemos.deps.json
+C:\Projects\DesignPatternAI\bin\Debug\net6.0\DesignPatternDemos.runtimeconfig.json
+C:\Projects\DesignPatternAI\bin\Debug\net6.0\DesignPatternDemos.dll
+C:\Projects\DesignPatternAI\bin\Debug\net6.0\DesignPatternDemos.pdb
+C:\Projects\DesignPatternAI\obj\Debug\net6.0\DesignPatternDemos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DesignPatternAI\obj\Debug\net6.0\DesignPatternDemos.AssemblyInfoInputs.cache
+C:\Projects\DesignPatternAI\obj\Debug\net6.0\DesignPatternDemos.AssemblyInfo.cs
+C:\Projects\DesignPatternAI\obj\Debug\net6.0\DesignPatternDemos.csproj.CoreCompileInputs.cache
+C:\Projects\DesignPatternAI\obj\Debug\net6.0\DesignPatternDemos.sourcelink.json
+C:\Projects\DesignPatternAI\obj\Debug\net6.0\DesignPatternDemos.dll
+C:\Projects\DesignPatternAI\obj\Debug\net6.0\refint\DesignPatternDemos.dll
+C:\Projects\DesignPatternAI\obj\Debug\net6.0\DesignPatternDemos.pdb
+C:\Projects\DesignPatternAI\obj\Debug\net6.0\DesignPatternDemos.genruntimeconfig.cache
+C:\Projects\DesignPatternAI\obj\Debug\net6.0\ref\DesignPatternDemos.dll
